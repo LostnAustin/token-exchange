@@ -9,3 +9,6 @@ contract Token is ERC20Mintable {
     string public symbol = "CFH";
     uint8 public decimals = 2; 
 }
+
+
+//Deployed token contract at 0x96AA444Fa1eaA77258FAFd12E7e8092AAfc98227
